@@ -1,0 +1,134 @@
+a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+}
+.Main{
+    width:1000px;
+    height:540px;
+    margin: auto;
+    /* background-color: orchid; */
+}
+.r1{
+    width: 1000px;
+    height: 90px;
+    background-color:orange;
+    padding-top:10px;
+}
+.r2{
+ display: flex;
+    flex-direction:row;
+    width: 1000px;
+    height: 40px;
+    background-color: green;
+    text-align: center;
+}
+.r2c1{
+     width: 200px;
+     height: 40px;
+     background:pink;
+}
+.r2c2{
+     width: 200px;
+     height: 40px;
+      background:red;
+    }
+.r2c3{
+     width: 200px;
+     height: 40px;
+      background:blue;
+}
+.r2c4{
+     width: 200px;
+     height: 40px;
+      background:orangered;
+}
+.r2c5{
+     width: 200px;
+     height: 40px;
+      background:slateblue;
+}
+
+.r5{
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    height: 200px;
+    
+}
+.r5c1{
+    display: flex;
+    flex-direction: column;
+    width:250px;
+    height:200px;
+    background-color:yellow;
+    text-align: center;
+}
+.d1{
+    width:250px;
+    height: 70px;
+    background-color:rebeccapurple;
+}
+.d2{
+    width:250px;
+    height: 70px;
+    background-color:rosybrown;
+}
+.d3{
+    width:250px;
+    height: 70px;
+    background-color: yellowgreen;
+}
+.d4{
+    width:250px;
+    height: 70px;
+    background-color: purple;
+}
+.d5{
+    width:250px;
+    height: 70px;
+    background-color: skyblue;
+}
+.r5c2{
+    width:750px;
+    height:200px;
+    background-color: black;
+}
+.r5c2 img{
+    width:500px;
+    height:150px;
+    background-size:cover;
+    background-position: center;
+}
+
+ 
+.r3{
+    width: 1000px;
+    height:40px;
+    background-color: green;
+    text-align: center;
+    padding-top: 10px;
+}
+.r4{
+    display: flex;
+    flex-direction: row;
+    width:1000px;
+    height:100px;
+    background-color:yellow;
+}
+.I1{
+    width:333.33px;
+    height: 100px;
+}
+img{
+     width:333.33px;
+     height: 100px;
+     background-size: cover;
+}
+.r6{
+    width: 1000px;
+    height: 40px;
+    padding-top: 10px;
+    text-align: center;
+    background-color:orange;
+}
